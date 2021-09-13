@@ -29,8 +29,8 @@ client.on("ready", () => {
   ); 
   let statuses = [
     `Servers: ${client.guilds.size} Users: ${client.users.size}`,
-    `By Yaxi`,
-    `Yaxi Is Here`
+    `By D1MOD`,
+    `REKLAMER IS HERE`
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
